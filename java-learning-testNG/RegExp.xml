@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="test_suite">
+	<test name="test">
+		<classes>
+			<class name="com.java.learning.testng.day2.RegularExpressions">
+				<methods>
+					<include name="Mobile.*" />
+				</methods>
+			</class>
+			<class name="com.java.learning.testng.day2.Exclude">
+				<methods>
+					<exclude name="employee.*" />
+				</methods>
+			</class>
+			
+		</classes>
+	</test>
+</suite>

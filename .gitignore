@@ -1,0 +1,13 @@
+.metadata
+bin/
+target/
+test-output/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
