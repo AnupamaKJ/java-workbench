@@ -1,4 +1,4 @@
-package com.java.learning.testng.groups;
+package com.learning.testng.groups;
 
 import org.testng.annotations.Test;
 

@@ -1,4 +1,4 @@
-package com.java.learning.testng;
+package com.learning.testng;
 
 import org.testng.annotations.Test;
 

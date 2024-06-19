@@ -16,6 +16,7 @@
         <module>java-learning-collections</module>
         <module>java-learning-jar-lib</module>
         <module>java-learning-jar-lib-test</module>
+        <module>java-learning-testNG</module>
     </modules>
 
     <properties>
