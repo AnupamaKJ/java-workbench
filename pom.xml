@@ -18,6 +18,7 @@
         <module>java-learning-jar-lib-test</module>
         <module>java-learning-testNG</module>
         <module>java-learning-introduction</module>
+        <module>Course</module>
     </modules>
 
     <properties>
